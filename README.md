@@ -17,8 +17,8 @@ step 4) react-native run-android  or react-native run-ios
 For any queries you can send message on prasadjivane@gmail.com
 
 # To Fllow Me
-LinkedIn :- https://www.linkedin.com/in/prasadjivane/
+LinkedIn :- https://www.linkedin.com/in/prasadjivane
 
 Github :- https://github.com/prasadjivane
 
-Medium :- https://prasadjivane.medium.com/
+Medium :- https://prasadjivane.medium.com
