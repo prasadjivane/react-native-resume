@@ -21,4 +21,4 @@ LinkedIn :- https://www.linkedin.com/in/prasadjivane/
 
 Github :- https://github.com/prasadjivane
 
-Medium :- https://medium.com/@prasadjivane
+Medium :- https://prasadjivane.medium.com/
