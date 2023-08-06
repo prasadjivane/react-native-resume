@@ -14,7 +14,7 @@ step 4) react-native run-android  or react-native run-ios
 
 <img src="images/output.jpg" width=300>
 
-For any queries you can send message on prasadjivane@gmail.com
+For any queries you can raise change requies in the repository.
 
 # To Fllow Me
 LinkedIn :- https://www.linkedin.com/in/prasadjivane
